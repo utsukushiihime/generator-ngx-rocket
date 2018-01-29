@@ -6,6 +6,7 @@ git:
 branches:
   only:
     - 'master'
+    - 'canary'
 
 language: node_js
 node_js:
