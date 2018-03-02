@@ -1,7 +1,7 @@
 branches:
   only:
     - master
-    - canary
+    - ci/canary
 
 environment:
   nodejs_version: ""
